@@ -1,8 +1,8 @@
 window.onload = function () {
   const imagePaths = [
-    "../assets/images/css-letter-a.png",
-    "../assets/images/css-letter-b.png",
-    "../assets/images/css-letter-c.png",
+    "assets/images/css-letter-a.png",
+    "assets/images/css-letter-b.png",
+    "assets/images/css-letter-c.png",
   ];
   const resultHTML = `
         <div class="result" id="resultA" style="display: none;">
